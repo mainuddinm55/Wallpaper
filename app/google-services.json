@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "854266523049",
+    "firebase_url": "https://fifawc2018wallpaper.firebaseio.com",
+    "project_id": "fifawc2018wallpaper",
+    "storage_bucket": "fifawc2018wallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854266523049:android:fc0c49f22f4de3b8",
+        "android_client_info": {
+          "package_name": "com.learner.fifawc2018wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854266523049-kmh91gqt7bjijoko9hg893vpkinbu68l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learner.fifawc2018wallpaper",
+            "certificate_hash": "c4e0279599dfded488e409432441797aecf8ba91"
+          }
+        },
+        {
+          "client_id": "854266523049-ejiqui6icprbe3on7ni9inse89c7bmo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRaDJR3yBlomco8rGPw-nr_hqEj9rfJFQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854266523049-ejiqui6icprbe3on7ni9inse89c7bmo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
